@@ -1,0 +1,119 @@
+body{
+    background-color: gray;
+}
+
+.container1{
+    color: rgb(75, 5, 17);
+    background-color: white;
+    border: 8px solid red;
+    text-align: center;
+    box-shadow: 8px 11px 16px blue;
+    border-radius: 25px;
+    width: 300px;
+    margin: auto;
+    text-shadow: rgb(183, 212, 54);
+    margin-top: 10px;
+
+}
+.container2{
+    height: 400px;
+}
+.container{
+    border: 3px solid red;
+    background-color: white;
+    color: rgb(205, 51, 236);
+    text-align: center;
+    width: 200px;
+    text-shadow: rgb(145, 255, 0) 1px 0 10px;
+    box-shadow: rgb(196, 28, 187) 9px 9px 8px ;
+    display: inline-block;
+}
+#container3{
+    margin-left: 5px;
+    margin-top: 10px;
+}
+#container4{
+    float: right;
+    width: 322px;
+    margin-top: 10px;
+    margin-right: 50px;
+}
+#container5{
+    position: absolute;
+    top:470px;
+    left: 28px;
+}
+#container6{
+    float: right;
+    position: absolute;
+    left: 1090px;
+    top: 480px;
+}
+.special{
+    border: 4px solid pink;
+    border-radius: 15px;
+    background-color: green;
+    width: 840px;
+    text-align: center;
+    margin-left: 260px;
+    position: relative;
+    top: 200px;
+    height: 660pxs;
+}
+.prem1{
+    padding-top: 14px;
+    font-size: 18px;
+}
+.special1{
+    background-color: antiquewhite;
+    font-style: italic;
+    line-height: 36px;
+    width: 387px;
+    margin-left: 19px;
+    margin-top: 43px;
+}
+.prem2{
+    float: right;
+    position: relative;
+    bottom: 281px;
+    right: 29px;
+    height: 236px;
+    font-size: 17px;
+}
+.small{
+    border: 2px solid gray;
+    position: absolute;
+    left: 2px;
+    top: 299px;
+    text-align: center;
+    width: 787px;
+    height: 216px;
+    background-color: antiquewhite;
+    font-size: 27px;
+}
+.new{
+    background-color: greenyellow;
+    width: 440px;
+    border: 10px solid red;
+    border-radius: 20px;
+    position: fixed;
+    top: 80%;
+    left: 34%;
+    padding: 12px;
+    display: flex;
+    justify-content: space-evenly;
+    color: brown;
+    font-style: italic;
+}
+.offer{
+    padding-right: 10px;
+    text-align: center;
+    width: 200px;
+    font-size: 19px;
+}
+.discount{
+    padding-right: 10px;
+    text-align: center;
+    width: 120px;
+    font-weight: bold;
+}
